@@ -8,4 +8,6 @@ Extra Features (instructions):
 
 `?`: Sets the cell's value to be random (0-255)
 
-In case you need to catch up [here's](https://gist.github.com/roachhd/dce54bec8ba55fb17d3a) a quick article on how the langauge works
+In case you need to catch up [here's](https://gist.github.com/roachhd/dce54bec8ba55fb17d3a) a quick article on how the language works
+
+_Note: To take files in just pass a .bf file as cin to the main function_

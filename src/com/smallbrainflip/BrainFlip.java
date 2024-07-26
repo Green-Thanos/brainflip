@@ -63,6 +63,12 @@ public class BrainFlip {
                         i--;
                     }
                     break;
+                case '@':
+                    mem[ptr] = (byte) (255 - mem[ptr]);
+                    break;
+                case '?':
+                    mem[ptr] = (byte) (Math.random() * 256);
+                    break;
             }
         }
     }
